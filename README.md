@@ -1,0 +1,1 @@
+I really liked to build this recipes pages, but I had hard time getting used to work with git. Adding and committing files wasn't very had, but at first I didn't understand that the text in de quotation marks were the commit messages. I thought those were commands that needed to be de same every time. After building this pages I feel like I have learned a lot.
